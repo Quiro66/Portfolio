@@ -2,9 +2,7 @@
   Portfolio Personal - Juan José Quiroz Bolivar<br/>
   <a href="https://github.com/Quiro66/Portfolio" target="_blank">Ver en GitHub</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+
 
 <br/>
 
@@ -17,13 +15,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/Quiro66/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/Quiro66/Portfolio/issues">Reportar Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/Quiro66/Portfolio/issues">Solicitar Feature</a>
-</h3>
 
 ## 🚀 Sobre Mí
 
